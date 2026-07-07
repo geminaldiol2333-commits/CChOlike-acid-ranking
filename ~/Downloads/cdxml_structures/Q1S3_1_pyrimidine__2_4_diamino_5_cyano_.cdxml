@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CDXML SYSTEM "http://www.cambridgesoft.com/xml/cdxml.dtd">
+<CDXML BondLength="14.40" LabelFont="Arial" LabelSize="10" LineWidth="0.6" CaptionFont="Arial" CaptionSize="10" HashSpacing="2.5" MarginWidth="1.5">
+  <page>
+    <fragment>
+      <n id="1" p="112.18 27.05" Element="7"/>
+      <n id="2" p="67.31 23.66" Element="6"/>
+      <n id="3" p="22.44 20.28" Element="6"/>
+      <n id="4" p="-2.93 57.45" Element="6" NumHydrogens="1"/>
+      <n id="5" p="-47.80 54.06" Element="7"/>
+      <n id="6" p="-67.31 13.51" Element="6"/>
+      <n id="7" p="-112.18 10.12" Element="7" NumHydrogens="2"/>
+      <n id="8" p="-41.94 -23.66" Element="7"/>
+      <n id="9" p="2.93 -20.28" Element="6"/>
+      <n id="10" p="28.30 -57.45" Element="7" NumHydrogens="2"/>
+      <b id="1" B="1" E="2" Order="3"/>
+      <b id="2" B="2" E="3" Order="1"/>
+      <b id="3" B="3" E="4" Order="4"/>
+      <b id="4" B="4" E="5" Order="4"/>
+      <b id="5" B="5" E="6" Order="4"/>
+      <b id="6" B="6" E="7" Order="1"/>
+      <b id="7" B="6" E="8" Order="4"/>
+      <b id="8" B="8" E="9" Order="4"/>
+      <b id="9" B="9" E="10" Order="1"/>
+      <b id="10" B="9" E="3" Order="4"/>
+    </fragment>
+  </page>
+</CDXML>

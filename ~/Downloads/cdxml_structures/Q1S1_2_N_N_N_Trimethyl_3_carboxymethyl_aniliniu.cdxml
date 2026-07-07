@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CDXML SYSTEM "http://www.cambridgesoft.com/xml/cdxml.dtd">
+<CDXML BondLength="14.40" LabelFont="Arial" LabelSize="10" LineWidth="0.6" CaptionFont="Arial" CaptionSize="10" HashSpacing="2.5" MarginWidth="1.5">
+  <page>
+    <fragment>
+      <n id="1" p="-120.04 23.60" Element="6" NumHydrogens="3"/>
+      <n id="2" p="-86.17 53.23" Element="7" FormalCharge="1"/>
+      <n id="3" p="-52.31 82.86" Element="6" NumHydrogens="3"/>
+      <n id="4" p="-115.80 87.10" Element="6" NumHydrogens="3"/>
+      <n id="5" p="-56.54 19.36" Element="6"/>
+      <n id="6" p="-71.06 -23.23" Element="6" NumHydrogens="1"/>
+      <n id="7" p="-41.43 -57.10" Element="6" NumHydrogens="1"/>
+      <n id="8" p="2.72 -48.37" Element="6" NumHydrogens="1"/>
+      <n id="9" p="17.23 -5.78" Element="6"/>
+      <n id="10" p="61.38 2.95" Element="6" NumHydrogens="2"/>
+      <n id="11" p="75.89 45.55" Element="6"/>
+      <n id="12" p="46.26 79.41" Element="8"/>
+      <n id="13" p="120.04 54.27" Element="8" NumHydrogens="1"/>
+      <n id="14" p="-12.40 28.09" Element="6" NumHydrogens="1"/>
+      <n id="15" p="-16.59 -87.10" Element="53" FormalCharge="-1"/>
+      <b id="1" B="1" E="2" Order="1"/>
+      <b id="2" B="2" E="3" Order="1"/>
+      <b id="3" B="2" E="4" Order="1"/>
+      <b id="4" B="2" E="5" Order="1"/>
+      <b id="5" B="5" E="6" Order="4"/>
+      <b id="6" B="6" E="7" Order="4"/>
+      <b id="7" B="7" E="8" Order="4"/>
+      <b id="8" B="8" E="9" Order="4"/>
+      <b id="9" B="9" E="10" Order="1"/>
+      <b id="10" B="10" E="11" Order="1"/>
+      <b id="11" B="11" E="12" Order="2"/>
+      <b id="12" B="11" E="13" Order="1"/>
+      <b id="13" B="9" E="14" Order="4"/>
+      <b id="14" B="14" E="5" Order="4"/>
+    </fragment>
+  </page>
+</CDXML>
