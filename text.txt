@@ -1,0 +1,16 @@
+CChO 酸性排序专项练习
+（每题有3小题，将化合物按酸性由强到弱排序）
+
+1. 取代基效应——苯甲酸与酚类酸性排序
+1-1  将下列化合物按酸性由强到弱排列：
+酸性由强到弱：__________
+1-2  将下列化合物按酸性由强到弱排列：
+酸性由强到弱：__________
+1-3  将下列化合物按酸性由强到弱排列：
+酸性由强到弱：__________
+
+参考答案
+1. 取代基效应——苯甲酸与酚类酸性排序
+1-1  B > C > A   N,N,N-Trimethyl(3-carboxymethyl)anilinium iodide (pKa=3.7) > PhNH₃⁺ (anilinium) (pKa=4.6) > N,N,N-Triethyl, 2-hydroxyamino-2-oxo-ethylammonium bromide- (pKa=6.6)
+1-2  B > C > D > A   CHCl₂COOH (dichloroacetic acid) (pKa=1.3) > ethanol, 1-(3-bromophenyl)-2,2,2-trifluoro- (pKa=11.5) > 1-Butanol (pKa=16.1) > 2-Propanol (pKa=17.1)
+1-3  A > B > D > C   pyrimidine, 2,4-diamino-5-cyano- (pKa=3.8) > 1-Pyrroline-5-carboxylic acid, 2-(2'-pyridyl)- (pKa=5.2) > benzimidazole, 1-(2-hydroxyethyl)- (pKa=5.3) > cyclohexanone, 2-acetyl- (pKa=10.1)
