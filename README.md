@@ -102,4 +102,4 @@ CChOlike-acid-ranking/
 
 ---
 
-> ⚡ 本项目采用 **Vibe Coding**（AI 辅助开发）方式构建。代码以"感觉对了就行"为准则，可能包含实验性写法。请勿用于生产环境，欢迎探索与改进。
+> **AI-Assisted Development Notice**: This project was developed with the assistance of large language models (AI coding tools). While reasonable efforts have been made to verify correctness and reproducibility, users should exercise independent scrutiny when applying the code or results in academic research or production workflows.
